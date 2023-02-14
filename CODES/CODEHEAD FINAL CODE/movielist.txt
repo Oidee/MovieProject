@@ -1,0 +1,157 @@
+25
+1
+The Visit
+Horror
+Blumhouse Productions
+5
+Resources/thevisit.jpg
+2
+The Taking of Deborah Logan
+Horror
+Eagle Films Millennium Entertainment
+10
+Resources/deborahlogan.jpg
+3
+Paranormal Activity
+Horror
+Blumhouse Productions
+-1
+Resources/paranormal.jpg
+4
+Hereditary
+Horror
+A24
+10
+Resources/hereditary.jpg
+5
+Shutter
+Horror
+Regency Enterprises
+10
+Resources/shutter.jpg
+6
+Carol
+Romance
+Number 9 Films
+10
+Resources/carol.jpg
+7
+Titanic
+Romance
+Paramount Pictures
+10
+Resources/titanic.jpg
+8
+When Harry Met Sally
+Romance
+Castle Rock Entertainment
+10
+Resources/harry.jpg
+9
+Slumdog Millionaire
+Romance
+Celador Films
+10
+Resources/slumdog.jpg
+10
+Brokeback Mountain
+Romance
+River Road Entertainment
+10
+Resources/brokeback.jpg
+11
+Life
+Sci-Fi, Thriller
+Columbia Pictures
+10
+Resources/life.jpg
+12
+Inception
+Sci-Fi
+Legendary Pictures
+10
+Resources/inception.jpg
+13
+Interstellar
+Sci-Fi
+Paramount Pictures, Warner Bros. Pictures
+10
+Resources/instellar.jpg
+14
+The Martian
+Sci-Fi
+TSG Entertainment, Scott Free Productions
+10
+Resources/martian.jpg
+15
+A Quiet Place
+Sci-fi, Thriller
+Platinum Dunes, Sunday Night Productions
+10
+Resources/quietplace.jpg
+16
+Deadpool
+Action
+20th Century Fox, Marvel Entertainment
+10
+Resources/deadpool.jpg
+17
+The Dark Night
+Action
+Warner Bros. Pictures, DC Comics
+10
+Resources/darknight.jpg
+18
+Logan
+Action
+20th Century Fox, Marvel Entertainment 
+10
+Resources/logan.jpg
+19
+Godzilla Vs. Kong
+Action
+Legendary Pictures
+10
+Resources/godzilla.jpg
+20
+Greenland
+Action, Drama
+Thunder Road
+10
+Resources/greenland.jpg
+21
+The Dictator
+Comedy
+Four by Two films
+10
+Resources/dictator.jpg
+22
+Deadpool 2
+Comedy
+Marvel Entertainment, 20th Century Fox
+10
+Resources/deadpoola.jpg
+23
+Tropic Thunder
+Comedy
+Red Hour Production, Dreamworks Pictures
+10
+Resources/tropic.jpg
+24
+Jumanji: Welcome To The Jungle
+Comedy
+Columbia Pictures
+10
+Resources/jumanji.jpg
+25
+21 Jump Street
+Comedy
+Relativity Media
+10
+Resources/jumpstreet.jpg
+26
+the lodge
+Horror
+Searchlight Pictures
+10
+Resources/thelodge.jpg
